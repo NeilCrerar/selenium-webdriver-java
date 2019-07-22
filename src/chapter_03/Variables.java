@@ -1,7 +1,6 @@
-package Chapter03;
+package chapter_03;
 
 public class Variables {
-
     public static void main(String[] args) {
         /* TYPE: byte
            MIN: -128
@@ -36,39 +35,39 @@ public class Variables {
         System.out.println("Long variable: " + myLongVariable);
 
         /* TYPE: float
-           MIN:
-           MAX:
-           DEFAULT:
+           MIN: 3.4e−038
+           MAX: 3.4e+038
+           DEFAULT: 0.0
          */
         float myFloatVariable = 23.6f;
         System.out.println("Float variable: " + myFloatVariable);
 
         /* TYPE: double
-           MIN:
-           MAX:
-           DEFAULT:
+           MIN: 1.7e−308
+           MAX: 1.7e+308
+           DEFAULT: 0.0
          */
         double myDoubleVariable = 12.56;
         System.out.println("Double variable: " + myDoubleVariable);
 
         /* TYPE: boolean
-           MIN:
-           MAX:
-           DEFAULT:
+           MIN: true
+           MAX: false
+           DEFAULT: false
          */
         boolean myBooleanVariable = false;
         System.out.println("Boolean variable: " + myBooleanVariable);
 
         /* TYPE: char
-           MIN:
-           MAX:
-           DEFAULT
+           MIN:0
+           MAX: 127
+           DEFAULT: <null/0>
          */
         char myCharVariable1 = 'a';
         System.out.println("Char variable: " + myCharVariable1);
         char myCharVariable2 = '&';
         System.out.println("Char variable: " + myCharVariable2);
-        char myCharVariable3 = 93;
+        char myCharVariable3 = 254;
         System.out.println("Char variable: " + myCharVariable3);
 
     }
