@@ -1,4 +1,9 @@
 package chapter_03;
+/*
+Udemy: Selenium Webdriver with Java: Java Concepts - Data Types
+Demonstrates being able to use the default values for different primitive variable types by setting them as global
+variables that are then used within a main method.
+ */
 
 public class VariablesDefaultValues {
     static byte myByteVariable;
