@@ -7,15 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="057030ef-2698-4cac-810e-86b271308907" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter_03/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_03/StringsExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/Variables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/VariablesDefaultValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/VariablesDefaultValues.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_03/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_03/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_03/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_03/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_03/VariablesDefaultValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_03/VariablesDefaultValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/StringMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/StringMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/StringsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/StringsExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_03/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_03/StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_03/StringsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_03/StringsExample.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringMethods">
+  <component name="RunManager" selected="Application.StringsExample">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_03.HelloWorld" />
       <module name="udemy-selenium-with-java" />
@@ -80,6 +76,19 @@
     </configuration>
     <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_03.StringMethods" />
+      <module name="udemy-selenium-with-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_03.StringsExample" />
       <module name="udemy-selenium-with-java" />
       <extension name="coverage">
         <pattern>
@@ -119,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringsExample" />
         <item itemvalue="Application.StringMethods" />
         <item itemvalue="Application.VariablesDefaultValues" />
         <item itemvalue="Application.HelloWorld" />
