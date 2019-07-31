@@ -1,7 +1,8 @@
-package chapter_03;
 /*
 Udemy: Selenium Webdriver with Java: Java Concepts - Data Types
+Demonstrates different types of primitive variable with information on the scope applied to each
 */
+package chapter_03;
 
 public class Variables {
     public static void main(String[] args) {

@@ -1,8 +1,8 @@
-package chapter_03;
 /*
 Udemy: Selenium Webdriver with Java: Java Concepts - Data Types
 Demonstrates a set of different methods that can be used to manipulate and update string variables.
 */
+package chapter_03;
 
 public class StringMethods {
     public static void main(String[] args) {
