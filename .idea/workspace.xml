@@ -6,15 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057030ef-2698-4cac-810e-86b271308907" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/ArraysDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_03/ArraysDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/StringsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/StringsExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_03/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_03/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_03/StringsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_03/StringsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_03/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_03/Variables.java" afterDir="false" />
-    </list>
+    <list default="true" id="057030ef-2698-4cac-810e-86b271308907" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
