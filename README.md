@@ -8,7 +8,7 @@ structure so will see how it goes.
 Udemy course recommends using Eclipse IDE and instructions are geared towards that but use Intellij at work so using
 that for this course and potentially use Eclipse if work on another machine at any point.
 
-NOTE: No idea what setting up thr out folder and other things has done.  Was following some other instructions and not
-sure they are needed or helpful at this pot in time.
+NOTE: No idea what setting up the 'out' folder and other things has done.  Was following some other instructions and not
+sure they are needed or helpful at this point in time.
 
 
