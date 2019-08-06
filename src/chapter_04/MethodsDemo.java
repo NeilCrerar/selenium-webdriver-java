@@ -1,5 +1,7 @@
 package chapter_04;
-
+/* Udemy: Selenium Webdriver with Java: Classes and Methods - Object Orientated Concepts
+Demonstrates the use of the 'main' method in Java as an entry point to being able to do thing in a java class.
+ */
 public class MethodsDemo {
 
     // In order to do anything, a Java class must have a 'main' method to act as the entry-point for the class

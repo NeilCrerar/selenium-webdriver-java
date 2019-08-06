@@ -7,12 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="057030ef-2698-4cac-810e-86b271308907" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter_04/AddingMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_04/MethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_04/UnderstandingReturnType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/ArraysDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/ArraysDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/Variables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/AddingMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/AddingMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/MethodsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/MethodsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_04/AddingMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_04/AddingMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_04/MethodsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_04/MethodsDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AddingMethods">
+  <component name="RunManager" selected="Application.UnderstandingReturnType">
     <configuration name="AddingMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_04.AddingMethods" />
       <module name="udemy-selenium-with-java" />
@@ -101,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_03.StringMethods" />
+    <configuration name="StringsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_03.StringsExample" />
       <module name="udemy-selenium-with-java" />
       <extension name="coverage">
         <pattern>
@@ -114,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_03.StringsExample" />
+    <configuration name="UnderstandingReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_04.UnderstandingReturnType" />
       <module name="udemy-selenium-with-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_03.*" />
+          <option name="PATTERN" value="chapter_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UnderstandingReturnType" />
         <item itemvalue="Application.AddingMethods" />
         <item itemvalue="Application.MethodsDemo" />
         <item itemvalue="Application.ArraysDemo" />
         <item itemvalue="Application.StringsExample" />
-        <item itemvalue="Application.StringMethods" />
       </list>
     </recent_temporary>
   </component>
