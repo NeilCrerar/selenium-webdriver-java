@@ -16,7 +16,7 @@ public class StringsExample {
         String anotherStringVariable = "This is a test string";
         System.out.println("Second string literal with same contents: " + anotherStringVariable);
 
-        myStringVariable = "Hey hey we're the monkees";
+        myStringVariable = "Hey hey we're the monkeys";
         System.out.println("Updated only the first string literal: " + myStringVariable);
         System.out.println("Second string literal with same contents: " + anotherStringVariable);
 

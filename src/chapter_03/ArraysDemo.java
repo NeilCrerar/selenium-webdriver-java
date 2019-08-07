@@ -52,22 +52,21 @@ public class ArraysDemo {
         contents
          */
         // Can get the length of the array - i.e. the number of elements in it
-        int length1 = myIntArray1.length;
-        int length2 = myIntArray2.length;
-        int length3 = myStringArray.length;
+        int length1 = myIntArray2.length;
+        int length2 = myStringArray.length;
 
         /* Once you know the length, can then use that with other methods to do things like iterate through the array,
         printing out the value of each element
          */
         System.out.println("\nPrint the contents of an array in one go......");
-        for (int i = 0; i <length3; i++) {
+        for (int i = 0; i <length2; i++) {
             System.out.println("  " + myStringArray[i]);
         }
 
         // Or sort an array into order
         System.out.println("\nSort an array into numerical order......");
         Arrays.sort(myIntArray2);
-        for (int i = 0; i < length2; i++){
+        for (int i = 0; i < length1; i++){
             System.out.println("  " + myIntArray2[i]);
         }
     }

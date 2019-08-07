@@ -43,7 +43,7 @@ public class StringMethods {
         System.out.println(".. " + myStringContains.contains("Friday"));
 
         System.out.println("\n--------------------------------------------------------------------------");
-        String myStringStartsWith = "XX435-DBOTL";
+        String myStringStartsWith = "XX435-TL56YY";
         System.out.println("The \"String startsWith()\" method checks if this string starts with given prefix");
         System.out.println("If the string variable contains: " + myStringStartsWith);
         System.out.println("A check that it begins with \"EE\" should return true...");
