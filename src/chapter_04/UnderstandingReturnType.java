@@ -1,8 +1,9 @@
-package chapter_04;
 /* Udemy: Selenium Webdriver with Java: Classes and Methods - Object Orientated Concepts
 Extends previous tutorial for 'AddingMethods' to introduce the concept of return types to be able to pass data back
 from a method to whatever had originally called it (e.g. returning the result of a calculation).
  */
+
+package chapter_04;
 public class UnderstandingReturnType {
     public static void main(String[] args) {
         // create a variable to hold the grade calculated for a student - note changed this from string in previous

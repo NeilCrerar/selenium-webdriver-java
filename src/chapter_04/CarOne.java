@@ -1,8 +1,9 @@
-package chapter_04;
 /* Udemy: Selenium Webdriver with Java: Classes and Methods - Object Orientated Concepts
 Demonstrates being able to create an object defined in one class (in this case a car) and access/update it from another.
 Works in conjunction with 'ClassDemoOne'.
  */
+
+package chapter_04;
 public class CarOne {
     /* Create a series of class variables for specific attributes of a car.  These are set as 'private' meaning they
     are only available for use within the class and can't be accessed by any class or method external to this class.

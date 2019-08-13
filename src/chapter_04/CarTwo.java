@@ -1,7 +1,7 @@
 package chapter_04;
 /* Udemy: Selenium Webdriver with Java: Classes and Methods - Object Orientated Concepts
 Extends earlier demonstration to show how can use setters to enforce validation on the value being assigned to object
-attributes and how can instantiate multiple objects from the same class  Works in conjunction with 'ClassDemoTwo'.
+attributes and how can instantiate multiple objects from the same class.  Works in conjunction with 'ClassDemoTwo'.
  */
 public class CarTwo {
     /* Create a series of class variables for specific attributes of a car.  These are set as 'private' meaning they

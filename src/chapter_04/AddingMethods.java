@@ -1,8 +1,9 @@
-package chapter_04;
 /* Udemy: Selenium Webdriver with Java: Classes and Methods - Object Orientated Concepts
 Introduces basic concepts around the use of methods to separate out specific actions that can be performed and how to
 pass data to those methods for them to use.
  */
+
+package chapter_04;
 public class AddingMethods {
 
     // here we have a main method that calls out to another method and passing it two bits of data.....
