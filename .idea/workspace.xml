@@ -7,19 +7,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="057030ef-2698-4cac-810e-86b271308907" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter_04/CarThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_04/ConstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter005/ConditionalStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter005/SwitchStatementDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter005/SwitchStatementDemoModded.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/ArraysDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/ArraysDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/StringMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/StringMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/StringsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/StringsExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/CarOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/CarOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/ClassDemoOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/ClassDemoOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/ClassDemoTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/ClassDemoTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_04/CarOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_04/CarOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_04/CarTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_04/CarTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_04/ClassDemoOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_04/ClassDemoOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_04/ClassDemoTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_04/ClassDemoTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/ArraysDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/StringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/StringsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_03/VariablesDefaultValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/AddingMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/CarOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/CarThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/CarTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/ClassDemoOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/ClassDemoTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/ConstructorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/MethodsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter_04/UnderstandingReturnType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_03/ArraysDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter003/ArraysDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_03/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter003/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_03/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter003/StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_03/StringsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter003/StringsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_03/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter003/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_03/VariablesDefaultValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter003/VariablesDefaultValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_04/AddingMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter004/AddingMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_04/CarOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter004/CarOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_04/CarThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter004/CarThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_04/CarTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter004/CarTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_04/ClassDemoOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter004/ClassDemoOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_04/ClassDemoTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter004/ClassDemoTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_04/ConstructorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter004/ConstructorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_04/MethodsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter004/MethodsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_04/UnderstandingReturnType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter004/UnderstandingReturnType.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,39 +91,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConstructorDemo">
-    <configuration name="AddingMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_04.AddingMethods" />
-      <module name="udemy-selenium-with-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClassDemoOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_04.ClassDemoOne" />
-      <module name="udemy-selenium-with-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SwitchStatementDemoModded">
     <configuration name="ClassDemoTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_04.ClassDemoTwo" />
+      <option name="MAIN_CLASS_NAME" value="chapter004.ClassDemoTwo" />
       <module name="udemy-selenium-with-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_04.*" />
+          <option name="PATTERN" value="chapter004.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionalStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter005.ConditionalStatement" />
+      <module name="udemy-selenium-with-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +119,11 @@
       </method>
     </configuration>
     <configuration name="ConstructorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_04.ConstructorDemo" />
+      <option name="MAIN_CLASS_NAME" value="chapter004.ConstructorDemo" />
       <module name="udemy-selenium-with-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_04.*" />
+          <option name="PATTERN" value="chapter004.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +131,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnderstandingReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_04.UnderstandingReturnType" />
+    <configuration name="SwitchStatementDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter005.SwitchStatementDemo" />
       <module name="udemy-selenium-with-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_04.*" />
+          <option name="PATTERN" value="chapter005.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchStatementDemoModded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter005.SwitchStatementDemoModded" />
+      <module name="udemy-selenium-with-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +158,11 @@
       </method>
     </configuration>
     <configuration name="Variables" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_03.Variables" />
+      <option name="MAIN_CLASS_NAME" value="chapter003.Variables" />
       <module name="udemy-selenium-with-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_03.*" />
+          <option name="PATTERN" value="chapter003.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwitchStatementDemoModded" />
+        <item itemvalue="Application.SwitchStatementDemo" />
+        <item itemvalue="Application.ConditionalStatement" />
         <item itemvalue="Application.ConstructorDemo" />
         <item itemvalue="Application.ClassDemoTwo" />
-        <item itemvalue="Application.ClassDemoOne" />
-        <item itemvalue="Application.UnderstandingReturnType" />
-        <item itemvalue="Application.AddingMethods" />
       </list>
     </recent_temporary>
   </component>
