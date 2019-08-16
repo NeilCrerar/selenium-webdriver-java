@@ -1,4 +1,4 @@
-/* Udemy: Selenium Webdriver with Java: XXXXX
+/* Udemy: Selenium Webdriver with Java: Conditional Statements and Loops
 Modified version fo the 'switch' conditional statement demo from the tutorial. In this version the separate cases for
 each month have been merged together to reduce duplication across the different months.
 IDE gives option to swap from 'switch' to 'branch' but not sure what that does at this point.

@@ -1,5 +1,6 @@
-/* Udemy: Selenium Webdriver with Java: XXXXX
-Demonstrates the use of a basic 'if' conditional statement using example previously seen in 'chapter004 - UnderstandingReturnType'
+/* Udemy: Selenium Webdriver with Java: Conditional Statements and Loops
+Demonstrates the use of a basic 'if' conditional statement using example previously seen in 'chapter004 -
+UnderstandingReturnType'
  */
 
 package chapter005;

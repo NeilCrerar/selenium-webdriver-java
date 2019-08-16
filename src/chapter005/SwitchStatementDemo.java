@@ -1,4 +1,4 @@
-/* Udemy: Selenium Webdriver with Java: XXXXX
+/* Udemy: Selenium Webdriver with Java: Conditional Statements and Loops
 Demonstrates the use of a 'switch' conditional statement via an example of returning the number of days in a given
 month/year combination
  */
