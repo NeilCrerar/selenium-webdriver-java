@@ -7,9 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="057030ef-2698-4cac-810e-86b271308907" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter005/WhileLoopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter005/DoWhileLoopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter005/ForLoopsDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter005/SwitchStatementDemoModded.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter005/SwitchStatementDemoModded.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter005/ConditionalStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter005/ConditionalStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter005/WhileLoopDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/udemy-selenium-with-java/chapter005/WhileLoopDemo.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,9 +63,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WhileLoopDemo">
-    <configuration name="ConditionalStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter005.ConditionalStatement" />
+  <component name="RunManager" selected="Application.ForLoopsDemo">
+    <configuration name="DoWhileLoopDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter005.DoWhileLoopDemo" />
       <module name="udemy-selenium-with-java" />
       <extension name="coverage">
         <pattern>
@@ -75,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter004.ConstructorDemo" />
+    <configuration name="ForLoopsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter005.ForLoopsDemo" />
       <module name="udemy-selenium-with-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter004.*" />
+          <option name="PATTERN" value="chapter005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoopsDemo" />
+        <item itemvalue="Application.DoWhileLoopDemo" />
         <item itemvalue="Application.WhileLoopDemo" />
         <item itemvalue="Application.SwitchStatementDemoModded" />
         <item itemvalue="Application.SwitchStatementDemo" />
-        <item itemvalue="Application.ConditionalStatement" />
-        <item itemvalue="Application.ConstructorDemo" />
       </list>
     </recent_temporary>
   </component>
